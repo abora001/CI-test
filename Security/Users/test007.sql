@@ -1,0 +1,2 @@
+CREATE USER [test007] FOR LOGIN [test007]
+GO

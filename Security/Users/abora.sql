@@ -1,0 +1,5 @@
+CREATE USER [abora] FOR LOGIN [abora] WITH DEFAULT_SCHEMA=[abora]
+GO
+GRANT IMPERSONATE ON USER:: [abora] TO [sp_user]
+GO
+REVOKE CONNECT TO [abora]

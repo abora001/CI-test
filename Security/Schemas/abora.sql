@@ -1,0 +1,3 @@
+CREATE SCHEMA [abora]
+AUTHORIZATION [abora]
+GO
